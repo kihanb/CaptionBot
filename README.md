@@ -8,6 +8,6 @@ This Source is a Wrapper for captionbot.ai
 
 # Example:
 <code>
-$caption = CaptionBot('https://www.ctvnews.ca/polopoly_fs/1.5098407.1599687805!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg');
+$caption = CaptionBot ('https://www.ctvnews.ca/polopoly_fs/1.5098407.1599687805!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg'); <br>
 // Result: "I think it's a cat sitting in a basket. "
  </code>
